@@ -1,7 +1,0 @@
-# what is markdown?
-**Markdown** is a lightweight markup language designed to format text in a simple and readable way. It allows you to add formatting elements like headings, lists, bold, and italics to plain text documents without needing complex syntax and also making it popular for writing documentation, blog posts, and more.
-# what is linux?
-**Linux** is an open-source operating system kernel that serves as the core component of many operating systems. It is used to manage hardware resources and provide a platform for running software applications.Linux is free to use, modify, and distribute. Its source code is available to anyone, fostering community collaboration and transparency.
-
-# what is ubuntu?
-**Ubuntu** is a popular, user-friendly Linux distribution based on Debian. It is known for its ease of use, stability, and strong community support, making it a popular choice for both beginners and experienced users.Ubuntu provides a graphical user interface (GUI) that is designed to be intuitive and accessible, even for users who are new to Linux. It is free to download, use, and modify. It adheres to open-source principles, and its source code is publicly available. It is a widely used Linux distribution known for its ease of use, regular updates, and robust community support, making it suitable for a variety of computing environments.
