@@ -2,7 +2,7 @@
 
 ## Completed work for week 3
 * [lab3] (../../labs/lab3/lab3.md)
-* [Notes3] (../../notes/notes3/notes3.md)
+* [Notes3] (../../notes/notes3/note3.md)
 * [Managing software Cheat sheet](../../cheatsheets/Managing%20Software%20Cheat%20Sheet.png)
 * [What is a shell](https://bit.ly/3jS8fNa)
 * [Managing Software](https://rapurl.live/nft)
