@@ -8,4 +8,4 @@
 <hr>
 
 ## Notes link
-* [notes2] (https://github.com/Mahimarana08/cis106/blob/main/notes/note2/notes2.md)
+* [notes2](https://github.com/Mahimarana08/cis106/blob/main/notes/note2/notes2.md)
